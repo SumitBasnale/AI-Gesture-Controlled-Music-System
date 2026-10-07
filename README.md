@@ -42,3 +42,29 @@ Gesture Mapping
 git clone https://github.com/sumitbasnale/AI-Gesture-Controlled-Music-System.git
    ↓
 Music Control
+
+
+
+Project Title
+     ↓
+Features
+     ↓
+Technologies Used
+     ↓
+How It Works
+     ↓
+▶️ How to Run
+     ↓
+Prerequisites
+     ↓
+Installation
+     ↓
+Run the Project
+     ↓
+Gesture Controls
+     ↓
+Project Structure
+     ↓
+Future Improvements
+     ↓
+Author
